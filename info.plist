@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>AutoItv3</string>
+	<key>ordering</key>
+	<array>
+		<string>BFA2F4A4-2BE6-4C88-BFA4-1A29F0EAB15B</string>
+		<string>AB5B6D96-3488-42E3-B9E6-4A6B020F2A1C</string>
+		<string>F64D1FE6-A1CA-4287-89A1-F0EDBA1A06B1</string>
+	</array>
+	<key>uuid</key>
+	<string>C4A5EDF5-34F4-4AAF-A9EB-48A7C8DF0088</string>
+</dict>
+</plist>
